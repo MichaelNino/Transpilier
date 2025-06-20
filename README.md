@@ -3,7 +3,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 # PHP Transpiler
 
-* Key Features: *
+** Key Features: **
 
 - Basic Syntax Conversion:
 
@@ -13,7 +13,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 - Echo statements to console.log
 
-* Control Structures: *
+** Control Structures: **
 
 - if/else/elseif
 
@@ -21,7 +21,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 - switch statements
 
-* Functions and Classes: *
+** Functions and Classes: **
 
 - Function declaration translation
 
@@ -37,7 +37,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 - String concatenation (. to +)
 
-* Runtime Environment: *
+** Runtime Environment: **
 
 - PHP-style isset(), empty(), count() functions
 
@@ -45,7 +45,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 Basic error handling
 
-* Limitations *
+** Limitations **
 
 This is a basic transpiler that handles many common PHP constructs, but there are limitations:
 
