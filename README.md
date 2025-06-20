@@ -3,57 +3,59 @@ A variety of transpilers from different programming languages to JavaScript
 
 # PHP Transpiler
 
-Key Features
-Basic Syntax Conversion:
+* Key Features: *
 
-PHP tags removal
+- Basic Syntax Conversion:
 
-Variable prefix conversion ($var to php_variables.var)
+- PHP tags removal
 
-Echo statements to console.log
+- Variable prefix conversion ($var to php_variables.var)
 
-Control Structures:
+- Echo statements to console.log
 
-if/else/elseif
+* Control Structures: *
 
-for/while/foreach loops
+- if/else/elseif
 
-switch statements
+- for/while/foreach loops
 
-Functions and Classes:
+- switch statements
 
-Function declaration translation
+* Functions and Classes: *
 
-Basic class translation with constructor
+- Function declaration translation
 
-Visibility modifiers (public/private/protected)
+- Basic class translation with constructor
 
-Operators:
+- Visibility modifiers (public/private/protected)
 
-Comparison operators
+* Operators: *
 
-Logical operators
+- Comparison operators
 
-String concatenation (. to +)
+- Logical operators
 
-Runtime Environment:
+- String concatenation (. to +)
 
-PHP-style isset(), empty(), count() functions
+* Runtime Environment: *
 
-Variable scope emulation
+- PHP-style isset(), empty(), count() functions
+
+- Variable scope emulation
 
 Basic error handling
 
-Limitations
+* Limitations *
+
 This is a basic transpiler that handles many common PHP constructs, but there are limitations:
 
-Doesn't fully support all PHP superglobals ($_GET, $_POST, etc.)
+- Doesn't fully support all PHP superglobals ($_GET, $_POST, etc.)
 
-Limited support for PHP's complex type juggling
+- Limited support for PHP's complex type juggling
 
-No support for PHP namespaces
+- No support for PHP namespaces
 
-Limited class inheritance and interface support
+- Limited class inheritance and interface support
 
-No support for PHP's reference system
+- No support for PHP's reference system
 
