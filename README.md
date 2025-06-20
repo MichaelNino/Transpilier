@@ -57,6 +57,3 @@ Limited class inheritance and interface support
 
 No support for PHP's reference system
 
-For production use, you would need to extend this implementation to handle more edge cases and PHP-specific behaviors.
-
-Would you like me to elaborate on any specific aspect of this transpiler or add more features to it?
