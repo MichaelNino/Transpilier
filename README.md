@@ -43,7 +43,7 @@ A variety of transpilers from different programming languages to JavaScript
 
 - Variable scope emulation
 
-Basic error handling
+- Basic error handling
 
 ## Limitations 
 
