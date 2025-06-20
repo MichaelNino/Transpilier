@@ -59,3 +59,65 @@ This is a basic transpiler that handles many common PHP constructs, but there ar
 
 - No support for PHP's reference system
 
+# Java Transpiler
+
+## Key Features:
+
+- Package and import statements handling
+
+- Class definition conversion
+
+- Main method translation
+
+## Variable Declarations:
+
+- Java type declarations to JavaScript let/const
+
+- Final variables to const
+
+## Control Structures:
+
+- if/else statements
+
+- for/while loops
+
+- switch statements
+
+## I/O Operations:
+
+- System.out.println to console.log
+
+- System.out.print to process.stdout.write
+
+## Methods and Constructors:
+
+- Method declaration translation
+
+- Constructor conversion
+
+- Visibility modifiers handling
+
+## Runtime Environment:
+
+- Basic Java classes emulation (System, Integer, Double)
+
+- Collections (ArrayList, HashMap)
+
+- Math utilities
+
+- String utilities
+
+## Limitations
+- This is a basic transpiler that handles many common Java constructs, but has some limitations:
+
+- No support for Java packages and full module system
+
+- Limited support for Java's type system and generics
+
+- No support for Java's exception handling (try-catch with specific exceptions)
+
+- Limited support for interfaces and abstract classes
+
+- No support for Java's threading model
+
+- Annotations are not processed
