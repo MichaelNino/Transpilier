@@ -1,4 +1,4 @@
-# Transpilier
+# Transpiler
 A variety of transpilers from different programming languages to JavaScript
 
 # PHP Transpiler
