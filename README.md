@@ -2,7 +2,7 @@
 A variety of transpilers from different programming languages to JavaScript
 
 # PHP Transpiler
-![PHP Logo](https://github.com/MichaelNino/Transpilier/blob/main/PHPLogo.png){width=100}
+![PHP Logo](https://raw.githubusercontent.com/MichaelNino/Transpilier/refs/heads/main/PHPLogo.png){width=100}
 
 ## Key Features:
 
